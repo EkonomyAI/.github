@@ -18,5 +18,5 @@ We’re starting with focused restaurant workflows, not a one-size-fits-all AI p
 
 ## Explore
 
-- [Ekonomy AI website](https://ekonomy.ai)
+- [www.ekonomy.ai](https://www.ekonomy.ai)
 - [Website source](https://github.com/EkonomyAI/ekonomy.ai)
